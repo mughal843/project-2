@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.top-container {
+    position: relative;
+    background-color: #e2e9eb;
+    height: 650px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 30px;
+    left: 150px;
+}
+.top-container h1 {
+    position: absolute;
+    top: 50px;
+    left: 470px;
+    font-size: 5rem;
+    color: rgb(0, 0, 0);
+    font-family: 'sacramento';
+}
+
+.top-container h2 {
+    position: absolute;
+    top: 200px;
+    font-size: 2.8rem;
+    left: 450px;
+    color: rgb(0, 0, 0);
+    font-family: 'sacramento';
+}
+
+.middle-container {
+    margin: 100px auto;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 130px;
+    right: 100px;
+}
+
+.mount {
+    position: absolute;
+    top: 290px;
+    left: 270px;
+}
+
+.bio {
+    width: 30%;
+    margin: auto;
+}
+
+.skill-rows {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+h1 {
+    color: rgb(198, 195, 191);
+}
+
+.computer {
+    width: 27%;
+    float: right;
+    padding-left: 30px;
+}
+
+.weight {
+    width: 27%;
+    float: left;
+    padding-right: 30px;
+}
+
+h2 {
+    color: rgb(198, 195, 191);
+}
+
+.middle-container u {
+    color: rgb(198, 195, 191)
+}
+
+.touch {
+    margin-bottom: 50px;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border-style: none;
+    border-width: 9px;
+    width: 100px;
+    border-top-style: dotted;
+    color: rgb(174, 174, 174);
+    margin-bottom: 30px;
+}
+
+.btn {
+    background-color: #66BFBF;
+    padding: 8px 15px;
+    border-radius: 15px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+.sacramento-regular {
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 20px;
+}
+
+.bottom-container a {
+    color: darkblue;
+}
+
+.copyright {
+    margin-top: 40px;
+    color: white;
+}
